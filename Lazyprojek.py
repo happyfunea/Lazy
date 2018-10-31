@@ -264,8 +264,7 @@ def show_menu():
     print R+"""\t\t    Iam Lamer
 \t __________________________________ \n
 \t\t\033[1;32m[*]\033[35m  LAZY PROJECT
-\t\t\033[1;32m[*]\033[35mAuthor : Agung sp.
-\t\t\033[1;32m[*]\033[35mCoded By : Agung sp.
+\t\t\033[1;32m[*]\033[35mAuthor : Mr-[@9un9]
 \t \033[31m__________________________________
 \t \033[1;32m 1.\033[1;37m About
 \t \033[1;32m 2.\033[1;37m Call prank
